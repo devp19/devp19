@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dev - GitHub Banner](https://github.com/devp19/devp19/assets/146687531/421a5f8b-1057-488a-9b6b-5724e4ccb2e2)
+
+Success-orientated individual, striving to code for the future! I am a passionate developer with a dynamic blend of theoretical knowledge, looking to further hone and apply my unique set of skills towards the realm of artificial-intelligence! 
