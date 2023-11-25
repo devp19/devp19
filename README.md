@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **devp19/devp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dev - GitHub Banner](https://github.com/devp19/devp19/assets/146687531/421a5f8b-1057-488a-9b6b-5724e4ccb2e2)
