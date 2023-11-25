@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 Success-orientated individual, striving to code for the future! I am a passionate developer with a dynamic blend of theoretical knowledge, looking to further hone and apply my unique set of skills towards the realm of artificial-intelligence! 
 
+```
+Currently Seeking Summer 2024 Internships
+```
