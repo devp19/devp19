@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Dev - GitHub Banner](https://github.com/devp19/devp19/assets/146687531/421a5f8b-1057-488a-9b6b-5724e4ccb2e2)
 
-Success-orientated individual, striving to code for the future! I am a passionate developer with a dynamic blend of theoretical knowledge, looking to further hone and apply my unique set of skills towards the realm of artificial-intelligence! 
+Hey, I'm Dev Patel, an 18-year-old, First-Year Computer Science student at Toronto Metropolitan University. In my program, I'm focused on coding, problem-solving, and ideally keeping up with tech trends. As I tackle coursework and coding challenges, I'm particularly interested in artificial intelligence and machine learning. Looking ahead, I'm leaning towards exploring opportunities in BioTech or FinTech after graduation, where I hope to apply my skills to make a real-world impact. In my pursuit of merging technology with real-world applications, I have actively collaborated with fellow students on AI and machine learning projects, further solidifying my coding proficiency. Beyond the academic setting, I am exploring internships and mentorship opportunities in BioTech and FinTech, eager to gain practical insights that will inform my future contributions in these dynamic industries.
 
 ```
 Currently Seeking Summer 2024 Internships
