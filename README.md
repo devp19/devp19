@@ -22,7 +22,7 @@ Hi, I'm Dev Patel, an 18-year-old First-Year Computer Science student at Toronto
 
 ### Languages
 
-[!image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+![image](https://img.shields.io/badge/Python-c9c1b2?style=for-the-badge&logo=python)
 
 
 ### Frameworks / Environments
