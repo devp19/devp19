@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 ### About Me
 Hi, I'm Dev Patel, an 18-year-old First-Year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in AI and machine learning. I aim to explore opportunities in BioTech or FinTech after graduation, applying my skills for a real-world impact. Make sure to check out my [website!](https://devp19.netlify.app)
 
+### Languages
+
+[!image](https://img.shields.io/badge/Python-c9c1b2?style=for-the-badge&logo=python&logoColor=white)
+
 ### Frameworks / Environments
 ![image](https://img.shields.io/badge/Bootstrap%205-c9c1b2?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![image](https://img.shields.io/badge/Node%20js-c9c1b2?style=for-the-badge&logo=nodedotjs&logoColor=white)
