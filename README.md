@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dev - GitHub Banner](https://github.com/devp19/devp19/assets/146687531/421a5f8b-1057-488a-9b6b-5724e4ccb2e2)
-![](https://komarev.com/ghpvc/?username=devp19&style=for-the-badge&color=eae0d6)
+![](https://komarev.com/ghpvc/?username=devp19&style=for-the-badge&color=c7bfaf)
 
 Hi, I'm Dev Patel, an 18-year-old First-Year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in AI and machine learning. I aim to explore opportunities in BioTech or FinTech after graduation, applying my skills for real-world impact. Actively collaborating on AI projects with peers, I seek internships and mentorships in these industries to gain practical insights for future contributions.
 
