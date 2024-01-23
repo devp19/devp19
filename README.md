@@ -33,7 +33,6 @@ Currently Seeking Summer 2024 Internships
 ![image](https://img.shields.io/badge/C%20Sharp-c9c1b2?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/C-c9c1b2?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-c9c1b2?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-c9c1b2?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/LaTeX-c9c1b2?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![image](https://img.shields.io/badge/HTML-c9c1b2?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-c9c1b2?style=for-the-badge&logo=css3&logoColor=white)
