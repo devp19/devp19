@@ -44,6 +44,7 @@ Currently Seeking Summer 2024 Internships
 ![image](https://img.shields.io/badge/Node%20js-c9c1b2?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-c9c1b2.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/npm-c9c1b2?style=for-the-badge&logo=npm&logoColor=white)
+![image](https://img.shields.io/badge/Flask-c9c1b2?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Discord.js-c9c1b2?style=for-the-badge&logo=discord&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-c9c1b2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Spyder-c9c1b2?style=for-the-badge&logo=spyder%20ide&logoColor=white)
