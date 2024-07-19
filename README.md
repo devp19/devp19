@@ -22,7 +22,7 @@ Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto
 
 
 ```
-Currently Seeking Summer 2024 Internships
+Currently Seeking Summer 2025 Internship
 ```
 
 
