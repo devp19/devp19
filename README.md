@@ -15,7 +15,7 @@ Currently Seeking Summer 2025 Internship
 
 ![image](https://img.shields.io/badge/Python-c9c1b2?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Java-c9c1b2?style=for-the-badge&logo=coffeescript&logoColor=white)
-![image](https://img.shields.io/badge/C%20Sharp-c9c1b2?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/c-c9c1b2?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/C-c9c1b2?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-c9c1b2?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/HTML-c9c1b2?style=for-the-badge&logo=html5&logoColor=white)
