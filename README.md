@@ -31,6 +31,7 @@ Currently Seeking Summer 2025 Internship
 ![image](https://img.shields.io/badge/heroku-%23c9c1b2.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/Render-%23c9c1b2.svg?&style=for-the-badge&logo=render&logoColor=white)
 ![image](https://img.shields.io/badge/netlify-c9c1b2.svg?&style=for-the-badge&logo=netlify&logoColor=white)
+![image](https://img.shields.io/badge/cloudflare-c9c1b2.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap%205-c9c1b2?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![image](https://img.shields.io/badge/Node%20js-c9c1b2?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-c9c1b2.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
