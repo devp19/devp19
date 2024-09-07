@@ -24,8 +24,9 @@ Currently Seeking Summer 2025 Internship
 
 
 
-### Frameworks / Environments
+### Frameworks / Tools
 ![image](https://img.shields.io/badge/React-c9c1b2.svg?&style=for-the-badge&logo=React&logoColor=white)
+![image](https://img.shields.io/badge/Linux-c9c1b2.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap%205-c9c1b2?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![image](https://img.shields.io/badge/Node%20js-c9c1b2?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-c9c1b2.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
