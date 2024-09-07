@@ -40,7 +40,7 @@ Currently Seeking Summer 2025 Internship
 ![image](https://img.shields.io/badge/Open%20AI-c9c1b2?style=for-the-badge&logo=openai&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Cloud-c9c1b2?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![image](https://img.shields.io/badge/GPT%20Model-c9c1b2?style=for-the-badge&logo=openai&logoColor=white)
-![image](https://img.shields.io/badge/obsidian-c9c1b2?style=for-the-badge&logo=obisidian&logoColor=white)
+![image](https://img.shields.io/badge/Obsidian-c9c1b2?style=for-the-badge&logo=obisidian&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-c9c1b2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/conda-c9c1b2.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
