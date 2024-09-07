@@ -15,7 +15,6 @@ Currently Seeking Summer 2025 Internship
 
 ![image](https://img.shields.io/badge/Python-c9c1b2?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Java-c9c1b2?style=for-the-badge&logo=coffeescript&logoColor=white)
-![image](https://img.shields.io/badge/mysql-c9c1b2?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/C%20Sharp-c9c1b2?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/C-c9c1b2?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-c9c1b2?style=for-the-badge&logo=javascript&logoColor=white)
@@ -29,6 +28,7 @@ Currently Seeking Summer 2025 Internship
 ![image](https://img.shields.io/badge/Linux-c9c1b2.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![image](https://img.shields.io/badge/git-%23c9c1b2.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/heroku-%23c9c1b2.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![image](https://img.shields.io/badge/mysql-c9c1b2?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Render-%23c9c1b2.svg?&style=for-the-badge&logo=render&logoColor=white)
 ![image](https://img.shields.io/badge/netlify-c9c1b2.svg?&style=for-the-badge&logo=netlify&logoColor=white)
 ![image](https://img.shields.io/badge/cloudflare-c9c1b2.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
