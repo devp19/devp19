@@ -10,6 +10,9 @@ Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto
 Currently Seeking Summer 2025 Internship
 ```
 
+### Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium%20Skin%20Tone.png" alt="Writing Hand Medium Skin Tone" width="25" height="25" />
+Currently I'm working a platform called RepoDex which is a student-friendly, accessible research paper “publishing” platform that gives students the opportunity to stand out among millions, review and edit papers, and connect with PHD level researchers. Designed to foster a collaborative academic community, RepoDex allows users to showcase their research, achievements, and certifications in a dynamic online portfolio.
+
 ### Languages
 
 ![image](https://img.shields.io/badge/Python-c9c1b2?style=for-the-badge&logo=python&logoColor=white)
