@@ -9,10 +9,10 @@ Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto
 
 
 ```
-Currently Seeking Summer 2025 Internship
+Seeking Summer 2025 Internship
 ```
 
-### What I'm Working On...
+### What I'm working on
 Currently I'm working on a platform called RepoDex which is a student-friendly, accessible research paper “publishing” platform that gives students the opportunity to stand out among millions, review and edit papers, and connect with PHD level researchers. Designed to foster a collaborative academic community, RepoDex allows users to showcase their research, achievements, and certifications in a dynamic online portfolio.
 
 ### Languages
