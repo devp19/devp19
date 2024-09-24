@@ -1,5 +1,6 @@
-![Dev - GitHub Banner](https://github.com/devp19/devp19/assets/146687531/421a5f8b-1057-488a-9b6b-5724e4ccb2e2)
+<img width="1452" alt="Screenshot 2024-09-24 at 12 21 52 AM" src="https://github.com/user-attachments/assets/70cc5234-9f11-4665-a73d-b1440806736e">
 ![](https://komarev.com/ghpvc/?username=devp19&style=for-the-badge&color=c7bfaf)
+
 
 
 ### About Me
