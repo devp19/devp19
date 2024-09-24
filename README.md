@@ -6,9 +6,12 @@
 
 ### About Me
 Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in deep-learning models and the realm of biotechnology! I aim to explore opportunities in biotech or fintech after graduation, applying my skills for a real-world impact! Make sure to check out my [website!](https://devp19.com)
+___
 
 ### Initiative
 I’m currently working on [@Repo-Dex](https://github.com/repo-dex), a student-led organization connecting universities across Ontario such as McMaster University, University of Ottawa, Toronto Metropolitan University and the University of Toronto. The platform is aimed to bridging the gap between academia and industry-level research publications, making it easier for students to find research-assistant positions and to go beyond the traditional academic scope to create impactful research papers.
+
+___
 
 ### Languages
 
@@ -21,6 +24,7 @@ I’m currently working on [@Repo-Dex](https://github.com/repo-dex), a student-l
 ![image](https://img.shields.io/badge/CSS3-c9c1b2?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/r-c9c1b2?style=for-the-badge&logo=r&logoColor=white)
 
+____
 
 ### Frameworks / Tools
 ![image](https://img.shields.io/badge/React-c9c1b2.svg?&style=for-the-badge&logo=React&logoColor=white)
