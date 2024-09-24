@@ -10,7 +10,6 @@ Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto
 Currently Seeking Summer 2025 Internship
 ```
 
-
 ### Languages
 
 ![image](https://img.shields.io/badge/Python-c9c1b2?style=for-the-badge&logo=python&logoColor=white)
@@ -21,8 +20,6 @@ Currently Seeking Summer 2025 Internship
 ![image](https://img.shields.io/badge/HTML-c9c1b2?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-c9c1b2?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/r-c9c1b2?style=for-the-badge&logo=r&logoColor=white)
-
-
 
 
 ### Frameworks / Tools
