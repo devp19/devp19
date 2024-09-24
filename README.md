@@ -13,7 +13,7 @@ Seeking Summer 2025 Internship
 ```
 
 ### What I'm working on
-Currently I'm working on [@Repo-Dex](https://github.com/Repo-Dex), a student-friendly, accessible research paper “publishing” platform that gives students the opportunity to stand out among millions, review and edit papers, and connect with PHD level researchers. Designed to foster a collaborative academic community, RepoDex allows users to showcase their research, achievements, and certifications in a dynamic online portfolio.
+I’m currently working on @Repo-Dex, a student-led organization connecting universities across Ontario such as McMaster University, University of Ottawa, Toronto Metropolitan University and the University of Toronto. The platform is aimed to bridging the gap between academia and industry-level research publications, making it easier for students to find research-assistant positions and to go beyond traditional academic scope to create impactful research papers.
 
 ### Languages
 
