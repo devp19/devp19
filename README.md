@@ -13,7 +13,7 @@ Seeking Summer 2025 Internship
 ```
 
 ### What I'm working on
-I’m currently working on @Repo-Dex, a student-led organization connecting universities across Ontario such as McMaster University, University of Ottawa, Toronto Metropolitan University and the University of Toronto. The platform is aimed to bridging the gap between academia and industry-level research publications, making it easier for students to find research-assistant positions and to go beyond traditional academic scope to create impactful research papers.
+I’m currently working on [@Repo-Dex](https://github.com/repo-dex), a student-led organization connecting universities across Ontario such as McMaster University, University of Ottawa, Toronto Metropolitan University and the University of Toronto. The platform is aimed to bridging the gap between academia and industry-level research publications, making it easier for students to find research-assistant positions and to go beyond traditional academic scope to create impactful research papers.
 
 ### Languages
 
