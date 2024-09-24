@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=devp19&style=for-the-badge&color=c7bfaf)
 
-
-
+____
 ### About Me
 Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in deep-learning models and the realm of biotechnology! I aim to explore opportunities in biotech or fintech after graduation, applying my skills for a real-world impact! Make sure to check out my [website!](https://devp19.com)
 ___
@@ -47,6 +46,8 @@ ____
 ![image](https://img.shields.io/badge/Obsidian-c9c1b2?style=for-the-badge&logo=obsidian&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-c9c1b2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/conda-c9c1b2.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
+___
 
 ```
 Seeking Summer 2025 Internship
