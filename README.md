@@ -17,7 +17,6 @@ ___
 ![image](https://img.shields.io/badge/Python-20232a?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Java-20232a?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/c%23-20232a?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/C-20232a?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/HTML-20232a?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-20232a?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,8 +45,6 @@ ____
 ![image](https://img.shields.io/badge/GPT%20Model-20232a?style=for-the-badge&logo=openai&logoColor=white)
 ![image](https://img.shields.io/badge/Obsidian-20232a?style=for-the-badge&logo=obsidian&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-20232a?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/conda-20232a.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-
 
 ___
 
