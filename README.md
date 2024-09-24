@@ -14,14 +14,14 @@ ___
 
 ### Languages
 
-![image](https://img.shields.io/badge/Python-c9c1b2?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Java-c9c1b2?style=for-the-badge&logo=openjdk&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-c9c1b2?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/c%23-c9c1b2?style=for-the-badge&logo=csharp&logoColor=white)
-![image](https://img.shields.io/badge/C-c9c1b2?style=for-the-badge&logo=c&logoColor=white)
-![image](https://img.shields.io/badge/HTML-c9c1b2?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-c9c1b2?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/r-c9c1b2?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/Python-20232a?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Java-20232a?style=for-the-badge&logo=openjdk&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/c%23-20232a?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/C-20232a?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/HTML-20232a?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-20232a?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/r-20232a?style=for-the-badge&logo=r&logoColor=white)
 
 ____
 
