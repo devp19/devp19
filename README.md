@@ -26,7 +26,7 @@ ___
 ____
 
 ### Frameworks / Tools
-![image](https://img.shields.io/badge/React-c9c1b2.svg?&style=for-the-badge&logo=React&logoColor=white)
+![image](https://img.shields.io/badge/React-20232a.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-c9c1b2.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![image](https://img.shields.io/badge/git-%23c9c1b2.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/heroku-%23c9c1b2.svg?&style=for-the-badge&logo=heroku&logoColor=white)
