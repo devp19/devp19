@@ -27,9 +27,6 @@ ___
 ![image](https://img.shields.io/badge/Bash-20232a?style=for-the-badge&logo=gnu-bash&logoColor=white
 )
 
-
-____
-
 ### Frameworks / Tools
 ![image](https://img.shields.io/badge/Node%20js-20232a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-20232a?style=for-the-badge&logo=express&logoColor=white)
@@ -46,8 +43,6 @@ ____
 ![image](https://img.shields.io/badge/cloudflare-20232a.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
 ![image](https://img.shields.io/badge/redis-20232a?style=for-the-badge&logo=redis&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-____
 
 ### Libraries & API's
 
