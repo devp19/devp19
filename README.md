@@ -4,7 +4,7 @@
 
 ____
 ### About Me
-Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in deep-learning models and the realm of biotechnology! I aim to explore opportunities in biotech or fintech after graduation, applying my skills for a real-world impact! Make sure to check out my [website!](https://devp19.com)
+Hi, I'm Dev Patel, a second year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in deep-learning models and the realm of biotechnology! I aim to explore opportunities in biotech or fintech after graduation, applying my skills for a real-world impact! Make sure to check out my [website!](https://devp19.com)
 ___
 
 ### Initiative
