@@ -21,6 +21,8 @@ ___
 ![image](https://img.shields.io/badge/HTML-20232a?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-20232a?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/r-20232a?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/Bash-20232a?style=for-the-badge&logo=bash&logoColor=white)
+
 
 ____
 
