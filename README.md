@@ -43,6 +43,7 @@ ____
 ![image](https://img.shields.io/badge/netlify-20232a.svg?&style=for-the-badge&logo=netlify&logoColor=white)
 ![image](https://img.shields.io/badge/cloudflare-20232a.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
 ![image](https://img.shields.io/badge/redis-20232a?style=for-the-badge&logo=redis&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ____
 
