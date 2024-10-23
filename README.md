@@ -7,9 +7,11 @@ ____
 Hi, I'm Dev Patel, a 19-year-old second year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in deep-learning models and the realm of biotechnology! I aim to explore opportunities in biotech or fintech after graduation, applying my skills for a real-world impact! Make sure to check out my [website!](https://devp19.com)
 ___
 
+<!--
+
 ### Initiative
 I’m currently working on [@Res-Dex](https://github.com/res-dex), a student-led organization connecting universities across Ontario such as McMaster University, University of Ottawa, Toronto Metropolitan University and the University of Toronto! ResDex is aimed towards bridging the gap between academia and industry-level research publications, making it easier for students to find research-assistant positions and to go beyond the traditional academic scope to create impactful research papers.
-
+-->
 ___
 
 ### Languages
