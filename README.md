@@ -28,6 +28,14 @@ ___
 ____
 
 ### Frameworks / Tools
+![image](https://img.shields.io/badge/Node%20js-20232a?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express%20js-20232a?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/React-20232a.svg?&style=for-the-badge&logo=React&logoColor=white)
+![image](https://img.shields.io/badge/AWS_S3,_Cognito,_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+
+
 ![image](https://img.shields.io/badge/React-20232a.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/mysql-20232a?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Node%20js-20232a?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -42,6 +50,7 @@ ____
 ![image](https://img.shields.io/badge/redis-20232a?style=for-the-badge&logo=redis&logoColor=white)
 ![image](https://img.shields.io/badge/Render-20232a.svg?&style=for-the-badge&logo=render&logoColor=white)
 ![image](https://img.shields.io/badge/netlify-20232a.svg?&style=for-the-badge&logo=netlify&logoColor=white)
+![image](https://img.shields.io/badge/Vercel-20232a?style=for-the-badge&logo=vercel&logoColor=white)
 ![image](https://img.shields.io/badge/cloudflare-20232a.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)
 ![image](https://img.shields.io/badge/Open%20AI-20232a?style=for-the-badge&logo=openai&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Cloud-20232a?style=for-the-badge&logo=google-cloud&logoColor=white)
