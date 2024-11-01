@@ -8,7 +8,7 @@ Hi, I'm Dev Patel, a second year Computer Science student at Toronto Metropolita
 ___
 
 ### Initiative
-I’m currently working on [@Res-Dex](https://github.com/res-dex), a student-led organization connecting universities across Ontario such as McMaster University, University of Ottawa, Toronto Metropolitan University and the University of Toronto! ResDex is aimed towards bridging the gap between academia and industry-level research publications, making it easier for students to find research-assistant positions and to go beyond the traditional academic scope to create impactful research papers.
+I’m currently working on [@Res-Dex](https://github.com/res-dex), where we're building a cutting-edge, student-centric research platform that empowers users to publish, review, and edit papers seamlessly. ResDex is aimed towards bridging the gap between academia and industry-level research publications, making it easier for students to find research-assistant positions and to go beyond the traditional academic scope to create impactful research papers.
 
 ___
 
