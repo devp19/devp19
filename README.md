@@ -49,5 +49,5 @@ ___
 ___
 
 ```
-Seeking Summer 2025 Internship!
+Seeking S25 & F25 Internship!
 ```
