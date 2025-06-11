@@ -17,6 +17,7 @@ ___
 ![image](https://img.shields.io/badge/Java-20232a?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://img.shields.io/badge/Rust-20232a?style=for-the-badge&logo=rust&logoColor=white)
 ![image](https://img.shields.io/badge/Elixir-20232a?style=for-the-badge&logo=elixir&logoColor=white)
+![image](https://img.shields.io/badge/Haskell-20232a?style=for-the-badge&logo=haskell&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-20232a?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C-20232a?style=for-the-badge&logo=c&logoColor=white)
