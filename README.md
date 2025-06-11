@@ -30,7 +30,7 @@ ___
 ![image](https://img.shields.io/badge/Node%20js-20232a?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-20232a?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232a.svg?&style=for-the-badge&logo=React&logoColor=white)
-![image](https://img.shields.io/badge/AWS_&#40;S3,%20Cognito,%20EC2&#41;-20232a?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_Web_Services-20232a?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![image](https://img.shields.io/badge/git-20232a.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/mysql-20232a?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Flask-20232a?style=for-the-badge&logo=flask&logoColor=white)
