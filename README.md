@@ -54,7 +54,3 @@ ___
 ![image](https://img.shields.io/badge/Open%20AI-20232a?style=for-the-badge&logo=openai&logoColor=white)
 
 ___
-
-```
-Seeking Fall 2025 Internship!
-```
