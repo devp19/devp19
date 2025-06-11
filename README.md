@@ -4,7 +4,9 @@
 
 ____
 ### About Me
-Hi, I'm Dev Patel, a third year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in deep-learning models and agentic AI. Currently, I'm an Automation Analyst @ Fidelity Investments (May - August 2025) where I lead end-to-end development of automation solutions that optimize internal processes and deliver measurable time savings for business stakeholders.
+Hi, I'm Dev Patel, a third year Computer Science student at Toronto Metropolitan University. Focused on coding, problem-solving, and tech trends, I'm particularly interested in deep-learning models and agentic AI. 
+
+Currently, I'm an Automation Analyst @ Fidelity Investments (May - August 2025) where I lead end-to-end development of automation solutions that optimize internal processes and deliver measurable time savings for business stakeholders.
 
 Make sure to check out my [website!](https://devp.ca)
 ___
