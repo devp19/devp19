@@ -1,4 +1,4 @@
-![portfolio](https://github.com/user-attachments/assets/2651348a-f368-41fa-b9ca-ea4dd02bfc7b)
+![Screen Recording 2025-07-14 at 12 10 48 PM](https://github.com/user-attachments/assets/d6c8d8d1-7ac5-4f21-b0d9-789b65d36c7d)
 
 ![](https://komarev.com/ghpvc/?username=devp19&abbreviated=true&style=for-the-badge&color=20232a)
 
