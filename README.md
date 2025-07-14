@@ -1,4 +1,3 @@
-[comment]: <> <img width="1452" alt="Screenshot 2024-09-24 at 12 21 52 AM" src="https://github.com/user-attachments/assets/70cc5234-9f11-4665-a73d-b1440806736e">
 ![portfolio](https://github.com/user-attachments/assets/2651348a-f368-41fa-b9ca-ea4dd02bfc7b)
 
 ![](https://komarev.com/ghpvc/?username=devp19&abbreviated=true&style=for-the-badge&color=20232a)
