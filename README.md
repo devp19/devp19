@@ -1,3 +1,4 @@
-[![Portfolio](https://github.com/user-attachments/assets/d6c8d8d1-7ac5-4f21-b0d9-789b65d36c7d)](https://devp.ca)
+
+![new](https://github.com/user-attachments/assets/158a6736-868b-490d-8ba6-0065c95216b0)
 
 ![](https://komarev.com/ghpvc/?username=devp19&abbreviated=true&style=for-the-badge&color=2a2a2a)
